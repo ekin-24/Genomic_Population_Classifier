@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+venv/
+*.npy
+*.keras
+1000genomesProject.keras
